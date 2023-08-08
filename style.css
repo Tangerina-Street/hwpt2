@@ -1,0 +1,20 @@
+body
+{
+    background-color: lightblue;
+    font-family: serif;
+    color:purple;
+}
+.instructions
+{
+    float:right;
+    margin-right:10px;
+}
+button
+{
+    background-color: purple;
+    color:lightblue;
+}
+#footer
+{
+    position: fixed;
+}
